@@ -1,6 +1,6 @@
-# SF Life Sciences Website Clone
+# SF Life Sciences Website 
 
-This is a complete clone of the SF Life Sciences website (https://sflifesciences.com).
+This is a complete website of the SF Life Sciences website (https://sflifesciences.com).
 
 ## Directory Structure
 
@@ -109,7 +109,7 @@ sflifesciences/
 
 ## Usage
 
-To use this cloned website:
+To use this website:
 
 1. Open `index.html` in a web browser to view the homepage
 2. Navigate through the site using the menu links
@@ -132,5 +132,3 @@ To use this cloned website:
 - Google Fonts are loaded from CDN (requires internet connection)
 - All other assets are stored locally
 - The website is fully responsive
-- Original source: https://sflifesciences.com
-- Developer: VT&T (Visionary Tools and Tech)
